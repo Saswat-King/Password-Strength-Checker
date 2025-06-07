@@ -1,1 +1,1 @@
-# Password-Strength-Checker
+# This is a basic Password Strength Checker made with C++
